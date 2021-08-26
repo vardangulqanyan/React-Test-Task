@@ -1,0 +1,5 @@
+export const HOME_ROUTE = '/'
+export const CART_ROUTE = '/cart'
+export const LOGIN_ROUTE = '/login'
+export const REGISTER_ROUTE = '/register'
+export const RESET_ROUTE = '/reset'
